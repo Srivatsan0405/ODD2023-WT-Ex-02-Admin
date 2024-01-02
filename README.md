@@ -1,4 +1,4 @@
-# Ex-02-Admin
+# Admin User using function-based views
 ## NAME : SRIVATSAN V
 ## REFERENCE NO. : 23000970
 # AIM
